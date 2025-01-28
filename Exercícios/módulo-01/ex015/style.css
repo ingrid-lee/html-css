@@ -1,0 +1,17 @@
+@charset "UTF-8"
+
+body{
+    background-color: palevioletred;
+}
+
+h1{
+    color: rgb(122, 55, 88);
+}
+
+h2{
+    color: rgb(89, 22, 33);k
+}
+
+p{
+    text-align: justify;
+}
